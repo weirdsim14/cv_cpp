@@ -48,9 +48,7 @@ int main(int argc, const char** argv)
     namedWindow("Input");
 
     createButton("Show histogram", showHistoCallback, NULL, QT_PUSH_BUTTON, 0); 
-    createButton("Equalize histogram", equalizeCallback, NULL, QT_PUSH_BUTTON, 0); 
-    createButton("Lomography effect", lomoCallback, NULL, QT_PUSH_BUTTON, 0); 
-    createButton("Cartoonize effect", cartoonCallback, NULL, QT_PUSH_BUTTON, 0);
+
 
     // Show image 
     imshow("Input", img); 
