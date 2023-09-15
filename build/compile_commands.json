@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/sangcheolsim/vision/practice/cv_cpp/build",
+  "command": "/usr/bin/clang++  -isystem /opt/homebrew/Cellar/opencv/4.8.0_5/include/opencv4 -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/First.dir/main.cpp.o -c /Users/sangcheolsim/vision/practice/cv_cpp/main.cpp",
+  "file": "/Users/sangcheolsim/vision/practice/cv_cpp/main.cpp",
+  "output": "CMakeFiles/First.dir/main.cpp.o"
+}
+]
