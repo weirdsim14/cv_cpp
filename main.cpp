@@ -46,13 +46,10 @@ int main(int argc, const char** argv)
     
     // Create window 
     namedWindow("Input");
-
     createButton("Show histogram", showHistoCallback, NULL, QT_PUSH_BUTTON, 0); 
-
 
     // Show image 
     imshow("Input", img); 
-    
     waitKey(0); 
     return 0; 
 }

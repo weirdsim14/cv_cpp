@@ -2,5 +2,10 @@
     "files.associations": {
         "MLTable": "yaml",
         "__config": "c"
-    }
+    },
+    "github.copilot.advanced": {
+
+    },
+    "chat.editor.fontSize": 24,
+    "editor.fontSize": 6
 }
